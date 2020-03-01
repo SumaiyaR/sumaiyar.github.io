@@ -72,5 +72,5 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-sass:
-sass_dir: _sass/whiteglass
+# sass:
+# sass_dir: _sass/whiteglass
