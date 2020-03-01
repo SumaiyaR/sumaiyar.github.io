@@ -28,7 +28,7 @@ branches:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: e874d2367e90e5888d87ca6f9f9eb3caa068da92  # Set in the settings page of your repository, as a secure variable
+  github-token: c7b7fb400fc5fddc4767edee3d16834dfb0a3bba  # Set in the settings page of your repository, as a secure variable
   keep-history: true
   local-dir: _site
   target-branch: gh-pages
