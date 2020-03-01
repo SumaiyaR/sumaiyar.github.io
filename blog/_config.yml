@@ -73,4 +73,4 @@ jekyll-archives:
     tag: /tags/:name/
 
 sass:
-sass_dir: _sass
+sass_dir: _sass/whiteglass
