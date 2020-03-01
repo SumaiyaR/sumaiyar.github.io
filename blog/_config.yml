@@ -71,3 +71,6 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+
+sass:
+sass_dir: _sass
