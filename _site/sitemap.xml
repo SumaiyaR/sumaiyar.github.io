@@ -9,6 +9,10 @@
 <lastmod>2020-03-08T10:23:47+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2020/04/01/my-maps/</loc>
+<lastmod>2020-04-01T11:23:47+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -33,5 +37,9 @@
 <url>
 <loc>http://localhost:4000/blog%5Carchives.html</loc>
 <lastmod>2020-03-01T11:20:21+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/choroplethLeaflet5.html</loc>
+<lastmod>2020-04-01T12:21:40+01:00</lastmod>
 </url>
 </urlset>
