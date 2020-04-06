@@ -6,5 +6,5 @@ categories: research phd
 ---
 
 - [Map](choroplethLeaflet5.html)
-<iframe seamless src="choroplethLeaflet5.html" width="100%" 
+<iframe seamless src="https://sumaiyar.shinyapps.io/ofgemVulnerability/" width="100%" 
 height="500"></iframe>
